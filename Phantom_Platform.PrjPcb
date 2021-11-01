@@ -44,40 +44,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=..\..\..\..\..\sam\Downloads\sloc369\Design Files\DRV8212 footprint library.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=CDKBQJVE
-
-[Document2]
-DocumentPath=..\..\..\..\..\sam\OneDrive\Desktop\ul_TPS562202DRLR (1)\AltiumDesigner\2021-08-06_11-25-28\TPS562202DRLR.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=EQRVDDAB
-
-[Document3]
 DocumentPath=uC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -94,7 +60,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QXCXIXYT
 
-[Document4]
+[Document2]
 DocumentPath=Top Level.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -111,7 +77,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KEYBTHSG
 
-[Document5]
+[Document3]
 DocumentPath=Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -128,7 +94,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FBQFEWGA
 
-[Document6]
+[Document4]
 DocumentPath=LCD_LED_Controls.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -145,7 +111,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JQTJHFPT
 
-[Document7]
+[Document5]
 DocumentPath=Sensors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -162,7 +128,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MFYQWCYP
 
-[Document8]
+[Document6]
 DocumentPath=Motor Driver 1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -179,7 +145,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=COPMQFZP
 
-[Document9]
+[Document7]
 DocumentPath=LCD_LED_Controls.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -196,7 +162,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document10]
+[Document8]
 DocumentPath=uC.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -213,7 +179,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document9]
 DocumentPath=Project Outputs for Phantom_Platform\PCB.EXTREP
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -230,7 +196,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document10]
 DocumentPath=Project Outputs for Phantom_Platform\PCB.REP
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -247,7 +213,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document11]
 DocumentPath=Project Outputs for Phantom_Platform\PCB.RUL
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -264,7 +230,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document12]
 DocumentPath=PCB_V2.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -281,7 +247,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BEPNTBMI
 
-[Document15]
+[Document13]
 DocumentPath=PCB_V2_Gerber.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -298,7 +264,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document14]
 DocumentPath=NC_Drill files.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -315,7 +281,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document15]
 DocumentPath=Phantom_Platform.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1504,27 +1470,27 @@ MatchStrictly2=1
 PhysicalNamingFormat=$ComponentPrefix$GlobalIndex
 GlobalIndexSortOrder=3
 GlobalIndexSortLocation=0
-UniqueIDPath0=
-DocumentName0=Top Level.SchDoc
+UniqueIDPath0=\2VYEOFIPT
+DocumentName0=Motor Driver 1.SchDoc
 IsEnabled0=1
 SelectionScope0=All
-Order0=7
+Order0=10
 IndexEnabled0=0
 IndexStartValue0=1
 Suffix0=
-UniqueIDPath1=\HWERKGPC
-DocumentName1=LCD_LED_Controls.SchDoc
+UniqueIDPath1=\3VYEOFIPT
+DocumentName1=Motor Driver 1.SchDoc
 IsEnabled1=1
 SelectionScope1=All
-Order1=8
+Order1=11
 IndexEnabled1=0
 IndexStartValue1=1
 Suffix1=
-UniqueIDPath2=\JMBZVVAW
-DocumentName2=Sensors.SchDoc
+UniqueIDPath2=\ZBQXYJLF
+DocumentName2=uC.SchDoc
 IsEnabled2=1
 SelectionScope2=All
-Order2=13
+Order2=14
 IndexEnabled2=0
 IndexStartValue2=1
 Suffix2=
@@ -1536,27 +1502,27 @@ Order3=12
 IndexEnabled3=0
 IndexStartValue3=1
 Suffix3=
-UniqueIDPath4=\2VYEOFIPT
-DocumentName4=Motor Driver 1.SchDoc
+UniqueIDPath4=
+DocumentName4=Top Level.SchDoc
 IsEnabled4=1
 SelectionScope4=All
-Order4=10
+Order4=7
 IndexEnabled4=0
 IndexStartValue4=1
 Suffix4=
-UniqueIDPath5=\3VYEOFIPT
-DocumentName5=Motor Driver 1.SchDoc
+UniqueIDPath5=\JMBZVVAW
+DocumentName5=Sensors.SchDoc
 IsEnabled5=1
 SelectionScope5=All
-Order5=11
+Order5=13
 IndexEnabled5=0
 IndexStartValue5=1
 Suffix5=
-UniqueIDPath6=\ZBQXYJLF
-DocumentName6=uC.SchDoc
+UniqueIDPath6=\HWERKGPC
+DocumentName6=LCD_LED_Controls.SchDoc
 IsEnabled6=1
 SelectionScope6=All
-Order6=14
+Order6=8
 IndexEnabled6=0
 IndexStartValue6=1
 Suffix6=
