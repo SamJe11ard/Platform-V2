@@ -1,0 +1,49 @@
+Comment,Description,Designator,Value,Quantity,Manufacturer Part Number,Manufacturer,Fitted (F) / Non-Fitted (NF) ,Manufacturer to source (MS) / Customer Sourced (CS)
+CC0603KRX7R8BB103,Surface Mount Ceramic Multilayer Capacitor 0.01uF 10% X7R 25V 0603 Paper T/R,"C1, C2",10 nF,2,CC0603KRX7R8BB103,YAGEO,F,MS
+C0603C106M9PACTU,CAP 10uF 6.3V ±20% 0603 (1608 Metric) Thickness 1mm SMD,"C3, C51, C53, C55, C65",10uF,5,C0603C106M9PACTU,KEMET,F,MS
+C0603C104K5RACTU,"Multilayer Ceramic Capacitors (MLCC) - SMD/SMT 50volts 0.1uF X7R 10%, Multilayer Ceramic Capacitors (MLCC) - SMD/SMT 50volts 0.1uF X7R 10%","C4, C6, C50, C52, C54, C58, C59, C61, C62, C63, C64, C66, C67, C69",0.10 µF,14,C0603C104K5RACTU,KEMET,F,MS
+CC0603KRX7R7BB105,0603 1 uF 16 V ±10 % Tolerance X7R SMT Multilayer Ceramic Capacitor,"C5, C60, C68",1 uF,3,CC0603KRX7R7BB105,YAGEO,F,MS
+C1608X7R1E104K080AA,Multilayer Ceramic Capacitors 100nF ±10% 25V X7R SMD 0603,"C7, C8, C15, C19, C20, C27, C31, C32, C39, C43, C44, C49",100nF,11,C1608X7R1E104K080AA,TDK Corporation,F,MS
+GRM21BR61E106MA73,"Chip Multilayer Ceramic Capacitors for General Purpose, 0805, 10uF, X5R, 15%, 20%, 25V","C9, C10, C21, C22, C33, C34",10uF,6,GRM21BR61E106MA73,Murata Electronics North America,F,MS
+GRM32ER61E226KE15L,CAP CER 22UF 25V X5R 1210,"C11, C12, C23, C24, C35, C36",22uF,6,GRM32ER61E226KE15L,Murata Electronics North America,F,MS
+C0603C104Z3VACTU,KEMET C0603C104Z3VACTU / CAP .10UF 25V CERAMIC Y5V 0603,"C13, C18, C25, C30, C37, C42",0.1uF,6,C0603C104Z3VACTU,KEMET,F,MS
+GRM21BR61A226ME44,"Chip Multilayer Ceramic Capacitors for General Purpose, 0805, 22uF, X5R, 15%, 20%, 10V","C14, C17, C26, C29, C38, C41, C47, C48",22uF,7,GRM21BR61A226ME44,Murata Electronics North America,F,MS
+CC0603KRX7R9BB103,"SMD Multilayer Ceramic Capacitor, 10000 pF, 50 V, 0603 [1608 Metric], ± 10%, X7R,","C16, C28, C40",10 nF,3,CC0603KRX7R9BB103,YAGEO,F,MS
+GRM21BR61E106MA73L,"Chip Multilayer Ceramic Capacitors for General Purpose, 0805, 10uF, X5R, 15%, 20%, 25V","C45, C46",10uF,2,GRM21BR61E106MA73L,Murata Electronics North America,F,MS
+CC0603JRNPO9BN220,"Chip Capacitor, 22 pF, +/- 5%, 50 V, -55 to 125 degC, 0603 (1608 Metric), RoHS, Tape and Reel","C56, C57",22 pF,2,CC0603JRNPO9BN220,YAGEO,F,MS
+LTST-C191TBKT,"LED Uni-Color Blue 468nm 2-Pin Chip LED T/R / LED BLUE CLEAR 0603 SMD, LED Uni-Color Blue 468nm 2-Pin Chip LED T/R / LED BLUE CLEAR 0603 SMD","D1, D2",-,2,LTST-C191TBKT,Lite-On Inc. - Optoelectronics,F,MS
+CD1206-S01575,"75 V Small Signal Switching Diode, 150 mA, 2.5 uA, 1026 Molded Package, RoHS, Tape and Reel","D3, D4, D5, D7",-,4,CD1206-S01575,Bourns,F,MS
+LTST-C190GKT,LED Uni-Color Green 565nm 2-Pin Chip LED T/R,D6,-,1,LTST-C190GKT,Lite-On Inc. - Optoelectronics,F,MS
+0466001.NR,FUSE BOARD MNT 1A 63VAC/VDC 1206,F1,0.075O,1,0466001.NR,Littelfuse Inc,F,MS
+MF-MSMF050-2 500mA,PTC RESET FUSE 15V 500MA 1812,F2,0.15-1O,1,MF-MSMF050-2 500mA,Bourns,F,MS
+MH2029-300Y,FERRITE BEAD 30 OHM 0805 1LN,"FB1, FB2",30,2,MH2029-300Y,Bourns,F,MS
+GRPB041VWVN-RC,CONN HEADER VERT 4POS 1.27MM,J1,-,1,GRPB041VWVN-RC,Sullins Connectors,F,MS
+031-5540,CONN BNC RCPT R/A 50 OHM PCB,"J2, J3",-,2,031-5540,Amphenol RF,NF,MS
+53047-0210,"1.25mm (.049"") Pitch PicoBlade Wire-to-Board Header, Vertical, with Friction Lock, 2 Circuits","J4, J6, J8",-,3,53047-0210,Molex,F,MS
+Molex 22-28-4033,Conn.; Rect./PCB; Header; 3 Cir.; Vertical; KK/254 Series; Gold Plating,"J5, J7, J9",-,3,Molex 22-28-4033,Molex,F,MS
+53048-0610,"Male Header, Pitch 1.25 mm, 1 x 6 Position, Height 3.5 mm, Tail Length 2.3 mm, -40 to 85 degC, RoHS, Tray","J10, J15, J17",-,3,53048-0610,Molex,F,MS
+648103131822,"Male Shrouded Header WR-WTB, SMT, Right Angled, pitch 1.5 mm, 1 x 3 position","J11, J12, J14, J16",-,4,648103131822,Wurth Elektronik,F,MS
+M20-9990246,"2.54mm (0.1"") Pitch SIL Vertical PC Tail Pin Header, 6.1mm mating pin height, tin, 2 contacts","J13, J22",-,2,M20-9990246,Harwin,F,MS
+61300511121,"THT Vertical Pin Header WR-PHD, Pitch 2.54 mm, Single Row, 5 pins",J18,-,1,61300511121,Wurth Elektronik,F,MS
+61300611121,"THT Vertical Pin Header WR-PHD, Pitch 2.54 mm, Single Row, 6 pins",J19,-,1,61300611121,Wurth Elektronik,F,MS
+105017-0001 (Molex),"Micro-USB B Receptacle, Right Angle, Bottom Mount, Surface Mount, with Solder Tabs, -30 to 85 degC, 5-Pin USB, RoHS, Tape and Reel",J20,-,1,105017-0001 (Molex),Molex,F,MS
+PBC01SAAN,CONN HEADER VERT 1POS,J21,-,1,PBC01SAAN,Sullins Connectors,F,MS
+LQM2HPN4R7MGCL,"SMD Power Inductor WE-LHMI, L=2.2 µH","L1, L2, L3, L4",-,4,LQM2HPN4R7MGCL,Wuerth Elektronik,F,MS
+TSW-103-08-G-D,"0.025"" SQ Post Header, Through-hole, Vertical, -55 to 125 degC, 2.54 mm Pitch, 6-Pin, Male, RoHS",P1,-,1,TSW-103-08-G-D,Samtec,F,MS
+PJ-002A,"Through Hole Right Angle DC Power Jack, 2.5 A, 2 mm Center Pin, 3 Position, -25 to 85 degC, RoHS, Bulk",PJ1,-,1,PJ-002A,CUIInc.,F,MS
+CRCW060310K0FKEA,"Chip Resistor, 10 KOhm, +/- 1%, 100 mW, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel","R1, R2, R3, R4, R5, R8, R11, R12, R15, R16, R19, R20, R23, R28",10 k,14,CRCW060310K0FKEA,Vishay Semiconductor,F,MS
+CRCW06031K00FKEA,"RES Thick Film, 1kO, 1%, 0.1W, 100ppm/°C, 0603","R6, R7",1 k ,2,CRCW06031K00FKEA,Vishay Semiconductor,F,MS
+CRCW0603100KFKEA,"RES Thick Film, 100kO, 1%, 0.1W, 100ppm/°C, 0603","R9, R13, R17",100 k ,3,CRCW0603100KFKEA,Vishay Semiconductor,F,MS
+CRCW060368K0FKEA,"RES Thick Film, 68kO, 1%, 0.1W, 100ppm/°C, 0603","R10, R14, R18",68 k ,3,CRCW060368K0FKEA,Vishay Semiconductor,F,MS
+CRCW060352K3FKEA,"RES Thick Film, 52.3kO, 1%, 0.1W, 100ppm/°C, 0603",R21,52.3 k ,1,CRCW060352K3FKEA,Vishay Semiconductor,F,MS
+CRCW060322R0FKEA,"RES Thick Film, 330O, 1%, 0.1W, 100ppm/°C, 0603, RES Thick Film, 22O, 1%, 0.1W, 100ppm/°C, 0603","R22, R29, R30",330,3,CRCW060322R0FKEA,Vishay Semiconductor,F,MS
+CRCW06034K70FKEA,"RES Thick Film, 4.7kO, 1%, 0.1W, 100ppm/°C, 0603","R24, R26, R27",4.7 k ,3,CRCW06034K70FKEA,Vishay Semiconductor,F,MS
+CRCW06031M00FKEA,"RES Thick Film, 1MO, 1%, 0.1W, 100ppm/°C, 0603",R25,1 M,1,CRCW06031M00FKEA,Vishay Semiconductor,F,MS
+CG0603MLC-05E,"ESD Protector, 5 V Supply, -40 to 85 degC, 1.6 x 0.8 x 0.55 mm SMD, RoHS, Tape and Reel","RV1, RV2",-,2,CG0603MLC-05E,Bourns,F,MS
+PEC11R-4215F-S0024,"12 mm Incremental Encoder, 24 Detent, -30 to 70 degC, 5-Pin THD, RoHS, Bulk",SW1,-,1,PEC11R-4215F-S0024,Bourns,F,MS
+1825910-6,"Tact Switch, SPST-NO, 0.05 A, -35 to 85 degC, 4-Pin THD, RoHS, Bulk",SW2,-,1,1825910-6,TE Connectivity,F,MS
+SN74LVC2G34DRLR,IC BUFFER NON-INVERT 5.5V 6SOT,U1,-,1,SN74LVC2G34DRLR,Texas Instruments,F,MS
+TPS562202DRLR,"Switching Voltage Regulators 4.3-V to 17-V input, 2-A output, synchronous step-down voltage converter 6-SOT-5X3 -40 to 150","U2, U4, U6, U8",-,4,TPS562202DRLR,Texas Instruments,F,MS / CS
+SYM-DRV8210DSG,"11V, 1A H-bridge motor driver, PWM, PH/EN, ½ bridge control, with low power sleep mode","U3, U5, U7",-,3,SYM-DRV8210DSG,Texas Instruments,F,MS /CS
+ATmega32U4-AU,"8-bit AVR Microcontroller, 2.7-5.5V, 16MHz, 32KB Flash, 1KB EEPROM, 2.5KB SRAM, USB Controller, 44-pin TQFP, Industrial Grade (-40°C to 85°C), Ext Osc",U9,-,1,ATmega32U4-AU,Atmel,F,MS
+FOXSDLF/160-20,"Resistance Weld SMD Crystal, 16 MHz, +/- 30 ppm, 20 pF, -20 to 70 degC, 2-Pin SMD, RoHS, Tape and Reel",Y1,-,1,FOXSDLF/160-20,Fox Electronics ,F,MS
