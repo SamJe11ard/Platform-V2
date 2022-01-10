@@ -31,7 +31,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-OutputPath=Project Outputs for Phantom_Platform
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=8A38DF55-C193-4960-8CDF-EDBD4B4676AF
 VaultGUID=64F6D88C-5922-4693-A5D9-750B1963C6DC
@@ -422,7 +422,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for Phantom_Platform
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
